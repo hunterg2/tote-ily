@@ -1,0 +1,5 @@
+/resources/
+.pyc
+resources/
+*.mp4
+__pycache__/
